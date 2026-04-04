@@ -1,0 +1,7 @@
+{
+  "name": "decisionai",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/dev.cjs"
+  }
+}
