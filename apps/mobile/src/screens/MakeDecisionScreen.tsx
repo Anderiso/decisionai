@@ -150,7 +150,6 @@ export function MakeDecisionScreen({ navigation }: Props) {
           ]}
           onPress={() => {
             if (phase === 'done') {
-              setBlurb('');
               resetFlow();
               return;
             }
